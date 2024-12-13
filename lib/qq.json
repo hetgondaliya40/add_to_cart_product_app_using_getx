@@ -1,0 +1,872 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with a long battery life.",
+    "price": 29.99,
+    "discountPercentage": 10,
+    "rating": 4.5,
+    "stock": 100,
+    "brand": "Logitech",
+    "thumbnail": "https://example.com/images/mouse_thumbnail.jpg",
+    "images": [
+      "https://example.com/images/mouse1.jpg",
+      "https://example.com/images/mouse2.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Mechanical Keyboard",
+    "description": "RGB mechanical keyboard with customizable keys.",
+    "price": 89.99,
+    "discountPercentage": 15,
+    "rating": 4.8,
+    "stock": 50,
+    "brand": "Razer",
+    "thumbnail": "https://example.com/images/keyboard_thumbnail.jpg",
+    "images": [
+      "https://example.com/images/keyboard1.jpg",
+      "https://example.com/images/keyboard2.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Gaming Headset",
+    "description": "High-fidelity gaming headset with noise cancellation.",
+    "price": 59.99,
+    "discountPercentage": 20,
+    "rating": 4.7,
+    "stock": 75,
+    "brand": "HyperX",
+    "thumbnail": "https://example.com/images/headset_thumbnail.jpg",
+    "images": [
+      "https://example.com/images/headset1.jpg",
+      "https://example.com/images/headset2.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "4K Monitor",
+    "description": "Ultra HD 4K monitor with vibrant colors.",
+    "price": 349.99,
+    "discountPercentage": 5,
+    "rating": 4.6,
+    "stock": 30,
+    "brand": "Dell",
+    "thumbnail": "https://example.com/images/monitor_thumbnail.jpg",
+    "images": [
+      "https://example.com/images/monitor1.jpg",
+      "https://example.com/images/monitor2.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Smartphone",
+    "description": "Latest model smartphone with excellent camera quality.",
+    "price": 699.99,
+    "discountPercentage": 10,
+    "rating": 4.9,
+    "stock": 200,
+    "brand": "Samsung",
+    "thumbnail": "https://example.com/images/smartphone_thumbnail.jpg",
+    "images": [
+      "https://example.com/images/smartphone1.jpg",
+      "https://example.com/images/smartphone2.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with deep bass.",
+    "price": 49.99,
+    "discountPercentage": 25,
+    "rating": 4.3,
+    "stock": 120,
+    "brand": "JBL",
+    "thumbnail": "https://example.com/images/speaker_thumbnail.jpg",
+    "images": [
+      "https://example.com/images/speaker1.jpg",
+      "https://example.com/images/speaker2.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Fitness Tracker",
+    "description": "Track your fitness goals with this sleek fitness tracker.",
+    "price": 79.99,
+    "discountPercentage": 15,
+    "rating": 4.4,
+    "stock": 80,
+    "brand": "Fitbit",
+    "thumbnail": "https://example.com/images/tracker_thumbnail.jpg",
+    "images": [
+      "https://example.com/images/tracker1.jpg",
+      "https://example.com/images/tracker2.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Laptop Stand",
+    "description": "Adjustable laptop stand for better ergonomics.",
+    "price": 25.99,
+    "discountPercentage": 30,
+    "rating": 4.0,
+    "stock": 150,
+    "brand": "Moft",
+    "thumbnail": "https://example.com/images/stand_thumbnail.jpg",
+    "images": [
+      "https://example.com/images/stand1.jpg",
+      "https://example.com/images/stand2.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "USB-C Hub",
+    "description": "Multi-port USB-C hub with HDMI and USB 3.0.",
+    "price": 39.99,
+    "discountPercentage": 20,
+    "rating": 4.1,
+    "stock": 60,
+    "brand": "Anker",
+    "thumbnail": "https://example.com/images/hub_thumbnail.jpg",
+    "images": [
+      "https://example.com/images/hub1.jpg",
+      "https://example.com/images/hub2.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Smartwatch",
+    "description": "Stylish smartwatch with health monitoring features.",
+    "price": 199.99,
+    "discountPercentage": 10,
+    "rating": 4.5,
+    "stock": 90,
+    "brand": "Apple",
+    "thumbnail": "https://example.com/images/smartwatch_thumbnail.jpg",
+    "images": [
+      "https://example.com/images/smartwatch1.jpg",
+      "https://example.com/images/smartwatch2.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Wireless Charger",
+    "description": "Fast wireless charger for all compatible devices.",
+    "price": 19.99,
+    "discountPercentage": 15,
+    "rating": 4.2,
+    "stock": 200,
+    "brand": "Belkin",
+    "thumbnail": "https://example.com/images/charger_thumbnail.jpg",
+    "images": [
+      "https://example.com/images/charger1.jpg",
+      "https://example.com/images/charger2.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Gaming Chair",
+    "description": "Ergonomic gaming chair with adjustable height.",
+    "price": 249.99,
+    "discountPercentage": 10,
+    "rating": 4.8,
+    "stock": 40,
+    "brand": "Secretlab",
+    "thumbnail": "https://example.com/images/chair_thumbnail.jpg",
+    "images": [
+      "https://example.com/images/chair1.jpg",
+      "https://example.com/images/chair2.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Portable SSD",
+    "description": "Fast portable SSD for extra storage on-the-go.",
+    "price": 99.99,
+    "discountPercentage": 20,
+    "rating": 4.6,
+    "stock": 70,
+    "brand": "Samsung",
+    "thumbnail": "https://example.com/images/ssd_thumbnail.jpg",
+    "images": [
+      "https://example.com/images/ssd1.jpg",
+      "https://example.com/images/ssd2.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Webcam",
+    "description": "High-definition webcam for video calls.",
+    "price": 49.99,
+    "discountPercentage": 10,
+    "rating": 4.4,
+    "stock": 100,
+    "brand": "Logitech",
+    "thumbnail": "https://example.com/images/webcam_thumbnail.jpg",
+    "images": [
+      "https://example.com/images/webcam1.jpg",
+      "https://example.com/images/webcam2.jpg"
+    ]
+  },
+    {
+      "id": 15,
+      "title": "Wooden Dining Table",
+      "description": "Handcrafted wooden dining table made from oak.",
+      "price": 499.99,
+      "discountPercentage": 10,
+      "rating": 4.8,
+      "stock": 25,
+      "brand": "WoodCraft",
+      "thumbnail": "https://example.com/images/dining_table_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/dining_table1.jpg",
+        "https://example.com/images/dining_table2.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Wooden Coffee Table",
+      "description": "Rustic wooden coffee table with a natural finish.",
+      "price": 199.99,
+      "discountPercentage": 15,
+      "rating": 4.5,
+      "stock": 50,
+      "brand": "Rustic Designs",
+      "thumbnail": "https://example.com/images/coffee_table_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/coffee_table1.jpg",
+        "https://example.com/images/coffee_table2.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Wooden Bookshelf",
+      "description": "Tall wooden bookshelf made from reclaimed wood.",
+      "price": 299.99,
+      "discountPercentage": 20,
+      "rating": 4.7,
+      "stock": 30,
+      "brand": "EcoWood",
+      "thumbnail": "https://example.com/images/bookshelf_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/bookshelf1.jpg",
+        "https://example.com/images/bookshelf2.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Wooden Bed Frame",
+      "description": "Sturdy wooden bed frame with a minimalist design.",
+      "price": 399.99,
+      "discountPercentage": 5,
+      "rating": 4.6,
+      "stock": 20,
+      "brand": "SleepWell",
+      "thumbnail": "https://example.com/images/bed_frame_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/bed_frame1.jpg",
+        "https://example.com/images/bed_frame2.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Wooden Rocking Chair",
+      "description": "Comfortable rocking chair made from solid wood.",
+      "price": 149.99,
+      "discountPercentage": 10,
+      "rating": 4.4,
+      "stock": 40,
+      "brand": "Classic Comfort",
+      "thumbnail": "https://example.com/images/rocking_chair_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/rocking_chair1.jpg",
+        "https://example.com/images/rocking_chair2.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Wooden Dining Chair",
+      "description": "Elegant dining chair crafted from hardwood.",
+      "price": 89.99,
+      "discountPercentage": 15,
+      "rating": 4.5,
+      "stock": 100,
+      "brand": "ChairMasters",
+      "thumbnail": "https://example.com/images/dining_chair_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/dining_chair1.jpg",
+        "https://example.com/images/dining_chair2.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Wooden Storage Chest",
+      "description": "Spacious wooden storage chest with a hinged lid.",
+      "price": 199.99,
+      "discountPercentage": 20,
+      "rating": 4.6,
+      "stock": 35,
+      "brand": "Treasure Box",
+      "thumbnail": "https://example.com/images/storage_chest_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/storage_chest1.jpg",
+        "https://example.com/images/storage_chest2.jpg"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Wooden Desk",
+      "description": "Stylish wooden desk perfect for home office.",
+      "price": 299.99,
+      "discountPercentage": 10,
+      "rating": 4.8,
+      "stock": 60,
+      "brand": "OfficeWood",
+      "thumbnail": "https://example.com/images/desk_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/desk1.jpg",
+        "https://example.com/images/desk2.jpg"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Wooden Nightstand",
+      "description": "Functional wooden nightstand with drawer storage.",
+      "price": 129.99,
+      "discountPercentage": 5,
+      "rating": 4.3,
+      "stock": 80,
+      "brand": "NightWood",
+      "thumbnail": "https://example.com/images/nightstand_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/nightstand1.jpg",
+        "https://example.com/images/nightstand2.jpg"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Wooden Serving Tray",
+      "description": "Beautifully crafted wooden serving tray.",
+      "price": 29.99,
+      "discountPercentage": 15,
+      "rating": 4.7,
+      "stock": 150,
+      "brand": "Tray & Co.",
+      "thumbnail": "https://example.com/images/serving_tray_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/serving_tray1.jpg",
+        "https://example.com/images/serving_tray2.jpg"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Wooden Wine Rack",
+      "description": "Stylish wooden wine rack for home storage.",
+      "price": 89.99,
+      "discountPercentage": 10,
+      "rating": 4.5,
+      "stock": 40,
+      "brand": "Wine & Wood",
+      "thumbnail": "https://example.com/images/wine_rack_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/wine_rack1.jpg",
+        "https://example.com/images/wine_rack2.jpg"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Wooden Toy Box",
+      "description": "Durable wooden toy box for children.",
+      "price": 119.99,
+      "discountPercentage": 20,
+      "rating": 4.6,
+      "stock": 30,
+      "brand": "Playtime",
+      "thumbnail": "https://example.com/images/toy_box_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/toy_box1.jpg",
+        "https://example.com/images/toy_box2.jpg"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Wooden Garden Bench",
+      "description": "Sturdy wooden bench for outdoor use.",
+      "price": 249.99,
+      "discountPercentage": 15,
+      "rating": 4.8,
+      "stock": 25,
+      "brand": "GardenCraft",
+      "thumbnail": "https://example.com/images/garden_bench_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/garden_bench1.jpg",
+        "https://example.com/images/garden_bench2.jpg"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Stainless Steel Cookware Set",
+      "description": "Durable stainless steel cookware set for all cooking needs.",
+      "price": 199.99,
+      "discountPercentage": 15,
+      "rating": 4.7,
+      "stock": 50,
+      "brand": "CookMaster",
+      "thumbnail": "https://example.com/images/cookware_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/cookware1.jpg",
+        "https://example.com/images/cookware2.jpg"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Non-Stick Frying Pan",
+      "description": "High-quality non-stick frying pan for easy cooking.",
+      "price": 39.99,
+      "discountPercentage": 10,
+      "rating": 4.6,
+      "stock": 200,
+      "brand": "KitchenPro",
+      "thumbnail": "https://example.com/images/frying_pan_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/frying_pan1.jpg",
+        "https://example.com/images/frying_pan2.jpg"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Silicone Baking Mat",
+      "description": "Reusable silicone baking mat for non-stick baking.",
+      "price": 19.99,
+      "discountPercentage": 5,
+      "rating": 4.5,
+      "stock": 150,
+      "brand": "BakeWare",
+      "thumbnail": "https://example.com/images/baking_mat_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/baking_mat1.jpg",
+        "https://example.com/images/baking_mat2.jpg"
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Kitchen Knife Set",
+      "description": "Professional kitchen knife set with ergonomic handles.",
+      "price": 89.99,
+      "discountPercentage": 20,
+      "rating": 4.8,
+      "stock": 75,
+      "brand": "Chef's Choice",
+      "thumbnail": "https://example.com/images/knife_set_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/knife_set1.jpg",
+        "https://example.com/images/knife_set2.jpg"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Electric Kettle",
+      "description": "Fast boiling electric kettle with automatic shut-off.",
+      "price": 49.99,
+      "discountPercentage": 15,
+      "rating": 4.4,
+      "stock": 100,
+      "brand": "BrewMaster",
+      "thumbnail": "https://example.com/images/electric_kettle_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/electric_kettle1.jpg",
+        "https://example.com/images/electric_kettle2.jpg"
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Food Processor",
+      "description": "Versatile food processor for chopping, slicing, and mixing.",
+      "price": 129.99,
+      "discountPercentage": 10,
+      "rating": 4.6,
+      "stock": 40,
+      "brand": "PrepPro",
+      "thumbnail": "https://example.com/images/food_processor_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/food_processor1.jpg",
+        "https://example.com/images/food_processor2.jpg"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Cast Iron Skillet",
+      "description": "Pre-seasoned cast iron skillet for perfect searing.",
+      "price": 59.99,
+      "discountPercentage": 20,
+      "rating": 4.8,
+      "stock": 60,
+      "brand": "IronCook",
+      "thumbnail": "https://example.com/images/cast_iron_skillet_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/cast_iron_skillet1.jpg",
+        "https://example.com/images/cast_iron_skillet2.jpg"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Coffee Maker",
+      "description": "Automatic coffee maker with programmable settings.",
+      "price": 99.99,
+      "discountPercentage": 15,
+      "rating": 4.5,
+      "stock": 30,
+      "brand": "BrewMaster",
+      "thumbnail": "https://example.com/images/coffee_maker_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/coffee_maker1.jpg",
+        "https://example.com/images/coffee_maker2.jpg"
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Blender",
+      "description": "High-speed blender for smoothies and soups.",
+      "price": 69.99,
+      "discountPercentage": 10,
+      "rating": 4.7,
+      "stock": 80,
+      "brand": "SmoothiePro",
+      "thumbnail": "https://example.com/images/blender_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/blender1.jpg",
+        "https://example.com/images/blender2.jpg"
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Rice Cooker",
+      "description": "Easy-to-use rice cooker for perfect rice every time.",
+      "price": 39.99,
+      "discountPercentage": 10,
+      "rating": 4.6,
+      "stock": 100,
+      "brand": "CookEasy",
+      "thumbnail": "https://example.com/images/rice_cooker_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/rice_cooker1.jpg",
+        "https://example.com/images/rice_cooker2.jpg"
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Study Desk",
+      "description": "Ergonomic study desk with ample workspace.",
+      "price": 149.99,
+      "discountPercentage": 10,
+      "rating": 4.7,
+      "stock": 50,
+      "brand": "StudyPro",
+      "thumbnail": "https://example.com/images/study_desk_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/study_desk1.jpg",
+        "https://example.com/images/study_desk2.jpg"
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Office Chair",
+      "description": "Comfortable office chair with lumbar support.",
+      "price": 89.99,
+      "discountPercentage": 15,
+      "rating": 4.5,
+      "stock": 150,
+      "brand": "ComfortZone",
+      "thumbnail": "https://example.com/images/office_chair_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/office_chair1.jpg",
+        "https://example.com/images/office_chair2.jpg"
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Desk Organizer",
+      "description": "Wooden desk organizer for stationery and supplies.",
+      "price": 29.99,
+      "discountPercentage": 20,
+      "rating": 4.6,
+      "stock": 100,
+      "brand": "OrganizeIt",
+      "thumbnail": "https://example.com/images/desk_organizer_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/desk_organizer1.jpg",
+        "https://example.com/images/desk_organizer2.jpg"
+      ]
+    },
+    {
+      "id": 41,
+      "title": "LED Desk Lamp",
+      "description": "Adjustable LED desk lamp with multiple brightness settings.",
+      "price": 39.99,
+      "discountPercentage": 10,
+      "rating": 4.8,
+      "stock": 80,
+      "brand": "LightUp",
+      "thumbnail": "https://example.com/images/desk_lamp_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/desk_lamp1.jpg",
+        "https://example.com/images/desk_lamp2.jpg"
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Notebook Set",
+      "description": "Pack of 5 notebooks for all your notes.",
+      "price": 15.99,
+      "discountPercentage": 5,
+      "rating": 4.4,
+      "stock": 200,
+      "brand": "NoteWorthy",
+      "thumbnail": "https://example.com/images/notebook_set_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/notebook_set1.jpg",
+        "https://example.com/images/notebook_set2.jpg"
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Whiteboard",
+      "description": "Magnetic whiteboard for notes and reminders.",
+      "price": 49.99,
+      "discountPercentage": 15,
+      "rating": 4.7,
+      "stock": 60,
+      "brand": "WriteAway",
+      "thumbnail": "https://example.com/images/whiteboard_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/whiteboard1.jpg",
+        "https://example.com/images/whiteboard2.jpg"
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Study Planner",
+      "description": "Weekly planner to organize your study schedule.",
+      "price": 19.99,
+      "discountPercentage": 10,
+      "rating": 4.5,
+      "stock": 150,
+      "brand": "PlanAhead",
+      "thumbnail": "https://example.com/images/study_planner_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/study_planner1.jpg",
+        "https://example.com/images/study_planner2.jpg"
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Index Cards",
+      "description": "Pack of 100 index cards for study notes.",
+      "price": 9.99,
+      "discountPercentage": 5,
+      "rating": 4.6,
+      "stock": 300,
+      "brand": "StudyTools",
+      "thumbnail": "https://example.com/images/index_cards_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/index_cards1.jpg",
+        "https://example.com/images/index_cards2.jpg"
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Stapler",
+      "description": "Heavy-duty stapler for all your binding needs.",
+      "price": 14.99,
+      "discountPercentage": 10,
+      "rating": 4.4,
+      "stock": 200,
+      "brand": "OfficeEssentials",
+      "thumbnail": "https://example.com/images/stapler_thumbnail.jpg",
+      "images": [
+        "https://example.com/images/stapler1.jpg",
+        "https://example.com/images/stapler2.jpg"
+      ]
+    },
+      {
+        "id": 47,
+        "title": "Potato Chips",
+        "description": "Crispy potato chips with a hint of salt.",
+        "price": 2.99,
+        "discountPercentage": 10,
+        "rating": 4.5,
+        "stock": 150,
+        "brand": "Crunchy Bites",
+        "thumbnail": "https://example.com/images/potato_chips_thumbnail.jpg",
+        "images": [
+          "https://example.com/images/potato_chips1.jpg",
+          "https://example.com/images/potato_chips2.jpg"
+        ]
+      },
+      {
+        "id": 48,
+        "title": "Chocolate Bar",
+        "description": "Delicious dark chocolate bar with almonds.",
+        "price": 1.99,
+        "discountPercentage": 5,
+        "rating": 4.8,
+        "stock": 200,
+        "brand": "Choco Delight",
+        "thumbnail": "https://example.com/images/chocolate_bar_thumbnail.jpg",
+        "images": [
+          "https://example.com/images/chocolate_bar1.jpg",
+          "https://example.com/images/chocolate_bar2.jpg"
+        ]
+      },
+      {
+        "id": 49,
+        "title": "Granola Bars",
+        "description": "Healthy granola bars packed with nuts and honey.",
+        "price": 3.49,
+        "discountPercentage": 15,
+        "rating": 4.6,
+        "stock": 100,
+        "brand": "NutriSnack",
+        "thumbnail": "https://example.com/images/granola_bars_thumbnail.jpg",
+        "images": [
+          "https://example.com/images/granola_bars1.jpg",
+          "https://example.com/images/granola_bars2.jpg"
+        ]
+      },
+      {
+        "id": 50,
+        "title": "Popcorn",
+        "description": "Lightly salted popcorn for movie nights.",
+        "price": 4.99,
+        "discountPercentage": 20,
+        "rating": 4.4,
+        "stock": 80,
+        "brand": "Poppy Snacks",
+        "thumbnail": "https://example.com/images/popcorn_thumbnail.jpg",
+        "images": [
+          "https://example.com/images/popcorn1.jpg",
+          "https://example.com/images/popcorn2.jpg"
+        ]
+      },
+      {
+        "id": 51,
+        "title": "Trail Mix",
+        "description": "Nutty trail mix with dried fruits and seeds.",
+        "price": 6.99,
+        "discountPercentage": 10,
+        "rating": 4.7,
+        "stock": 150,
+        "brand": "Healthy Munch",
+        "thumbnail": "https://example.com/images/trail_mix_thumbnail.jpg",
+        "images": [
+          "https://example.com/images/trail_mix1.jpg",
+          "https://example.com/images/trail_mix2.jpg"
+        ]
+      },
+      {
+        "id": 52,
+        "title": "Fruit Snacks",
+        "description": "Chewy fruit snacks made with real fruit.",
+        "price": 2.49,
+        "discountPercentage": 5,
+        "rating": 4.2,
+        "stock": 300,
+        "brand": "Fruit Bliss",
+        "thumbnail": "https://example.com/images/fruit_snacks_thumbnail.jpg",
+        "images": [
+          "https://example.com/images/fruit_snacks1.jpg",
+          "https://example.com/images/fruit_snacks2.jpg"
+        ]
+      },
+      {
+        "id": 53,
+        "title": "Cheese Puffs",
+        "description": "Crunchy cheese puffs bursting with flavor.",
+        "price": 3.99,
+        "discountPercentage": 15,
+        "rating": 4.5,
+        "stock": 120,
+        "brand": "Cheesy Treats",
+        "thumbnail": "https://example.com/images/cheese_puffs_thumbnail.jpg",
+        "images": [
+          "https://example.com/images/cheese_puffs1.jpg",
+          "https://example.com/images/cheese_puffs2.jpg"
+        ]
+      },
+      {
+        "id": 54,
+        "title": "Rice Cakes",
+        "description": "Light and crispy rice cakes, perfect for snacking.",
+        "price": 2.99,
+        "discountPercentage": 10,
+        "rating": 4.3,
+        "stock": 100,
+        "brand": "Crispy Crunch",
+        "thumbnail": "https://example.com/images/rice_cakes_thumbnail.jpg",
+        "images": [
+          "https://example.com/images/rice_cakes1.jpg",
+          "https://example.com/images/rice_cakes2.jpg"
+        ]
+      },
+      {
+        "id": 55,
+        "title": "Beef Jerky",
+        "description": "Savory beef jerky, high in protein.",
+        "price": 5.99,
+        "discountPercentage": 5,
+        "rating": 4.6,
+        "stock": 80,
+        "brand": "Jerky Masters",
+        "thumbnail": "https://example.com/images/beef_jerky_thumbnail.jpg",
+        "images": [
+          "https://example.com/images/beef_jerky1.jpg",
+          "https://example.com/images/beef_jerky2.jpg"
+        ]
+      },
+      {
+        "id": 56,
+        "title": "Chocolate Chip Cookies",
+        "description": "Homemade chocolate chip cookies, soft and chewy.",
+        "price": 3.49,
+        "discountPercentage": 10,
+        "rating": 4.8,
+        "stock": 200,
+        "brand": "Cookie Heaven",
+        "thumbnail": "https://example.com/images/cookies_thumbnail.jpg",
+        "images": [
+          "https://example.com/images/cookies1.jpg",
+          "https://example.com/images/cookies2.jpg"
+        ]
+      },
+      {
+        "id": 57,
+        "title": "Veggie Chips",
+        "description": "Healthy veggie chips made from real vegetables.",
+        "price": 2.99,
+        "discountPercentage": 15,
+        "rating": 4.4,
+        "stock": 150,
+        "brand": "Veggie Crunch",
+        "thumbnail": "https://example.com/images/veggie_chips_thumbnail.jpg",
+        "images": [
+          "https://example.com/images/veggie_chips1.jpg",
+          "https://example.com/images/veggie_chips2.jpg"
+        ]
+      },
+      {
+        "id": 58,
+        "title": "Nut Butter Cups",
+        "description": "Delicious nut butter cups made with dark chocolate.",
+        "price": 4.99,
+        "discountPercentage": 10,
+        "rating": 4.7,
+        "stock": 100,
+        "brand": "Nutty Delights",
+        "thumbnail": "https://example.com/images/nut_butter_cups_thumbnail.jpg",
+        "images": [
+          "https://example.com/images/nut_butter_cups1.jpg",
+          "https://example.com/images/nut_butter_cups2.jpg"
+        ]
+      }
+]
